@@ -3,3 +3,5 @@ The aim of the project is to detect the License plate for the vehciles who viola
 Image processing techniques are used to extract the text in license plate
 
 The vehicle which violates the traffic rules, an email is sent to his/her mail-id to pay the challan.
+
+
