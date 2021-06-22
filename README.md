@@ -34,6 +34,9 @@ Python should now be installed.
 IDE Required-
 IDLE/Visual Studio/PyCharm
 
+DATABASE-
+A database is required with license plate registered mail-id's.
+
 Required Libraries Installation:
 All the required libraries can be installed using pip installer
 1. Go to command prompt and run the following commands
