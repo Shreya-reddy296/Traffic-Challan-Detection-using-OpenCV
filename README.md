@@ -1,9 +1,5 @@
 TRAFFIC CHALLAN SYSTEM USING OPENCV
 
-DESCRIPTION-
-The aim of the project is to detect the License plate for the vehciles which violate the traffic rules. Image processing techniques are used to extract the text in license plate.
-An email is sent to the vehicle which violates the traffic rules indicating to pay the challan.
-
 SOFTWARES REQUIREMENTS-
 Operating System :       Windows 64 bit
 Pre-requisite Software : Python 3.8.0
